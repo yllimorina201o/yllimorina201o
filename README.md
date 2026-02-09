@@ -84,8 +84,9 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ## 🎵 Music / Spotify Playlist
 
-[![Spotify](https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/https://open.spotify.com/playlist/6sgzt29Ely5Z7eVQ6xbYZE?si=JU5VZ2KpQd60WHmQrjx8Yg)  
+[![Spotify](https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/6sgzt29Ely5Z7eVQ6xbYZE?si=SSdg9mmJToWXNvVfqpZ5jA)  
 💬 Currently vibing to: *Whatever keeps my brain coding faster than caffeine.*  
+
 
 ---
 
