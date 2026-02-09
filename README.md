@@ -19,11 +19,10 @@ I combine coding, design, video editing, and gaming to create projects that are 
 ![Git & GitHub](https://img.shields.io/badge/Git/GitHub-100%25-red?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-100%25-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-✨ *Spin your skills! Hover to see colors glow.*  
 
 ---
 
-## 🎨 Creative Skills (Animated)
+## 🎨 Creative Skills 
 
 ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-95%25-pink?style=for-the-badge)
 ![Video Editing](https://img.shields.io/badge/Video%20Editing-80%25-orange?style=for-the-badge)
@@ -34,14 +33,14 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ---
 
-## 💻 Frontend & Backend (Pulse Effect)
+## 💻 Frontend & Backend 
 
 ![Frontend](https://img.shields.io/badge/Frontend-Expert-green?style=for-the-badge&logo=react)
 ![Backend](https://img.shields.io/badge/Backend-Intermediate-blue?style=for-the-badge&logo=node.js)
 
 ---
 
-## 🎮 Games I Play (Animated)
+## 🎮 Games I Play 
 
 ![CS2](https://img.shields.io/badge/CS2-Playing-blue?style=for-the-badge&logo=counter-strike&logoColor=white)
 ![Fortnite](https://img.shields.io/badge/Fortnite-Playing-purple?style=for-the-badge&logo=fortnite&logoColor=white)
@@ -78,11 +77,9 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yllimorina201o&show_icons=true&theme=dark&hide_border=false&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yllimorina201o&layout=compact)
 
 ---
-
-✨ *Neon glow, animated badges, and spinning stats to make your profile pop.*
