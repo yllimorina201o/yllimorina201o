@@ -1,52 +1,48 @@
 # 👋 Hi, I’m Ylli Morina
 
-Welcome to my GitHub profile! I’m a full-stack developer with a passion for creative work.  
-I combine coding skills with design and video editing to create beautiful and functional projects.  
+Welcome! I’m a full-stack developer and creative designer.  
+I combine coding, design, and video editing to make projects that are both functional and visually stunning.  
 
 ---
 
 ## 🛠 Development Skills
 
-| Skill | Level |
-|-------|-------|
-| HTML5 | ![90%](https://img.shields.io/badge/HTML5-90%25-blue?style=for-the-badge) |
-| CSS3 | ![85%](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge) |
-| JavaScript | ![80%](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge) |
-| jQuery | ![75%](https://img.shields.io/badge/jQuery-75%25-blue?style=for-the-badge) |
-| PHP | ![80%](https://img.shields.io/badge/PHP-80%25-purple?style=for-the-badge) |
-| Bootstrap | ![85%](https://img.shields.io/badge/Bootstrap-85%25-purple?style=for-the-badge) |
-| Node.js | ![75%](https://img.shields.io/badge/Node.js-75%25-green?style=for-the-badge) |
-| React | ![80%](https://img.shields.io/badge/React-80%25-lightblue?style=for-the-badge) |
-| Next.js | ![70%](https://img.shields.io/badge/Next.js-70%25-black?style=for-the-badge) |
-| Git & GitHub | ![85%](https://img.shields.io/badge/Git-85%25-red?style=for-the-badge) |
-| VS Code | ![90%](https://img.shields.io/badge/VS%20Code-90%25-blue?style=for-the-badge) |
+![HTML5](https://img.shields.io/badge/HTML5-90%25-blue?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
+![jQuery](https://img.shields.io/badge/jQuery-75%25-blue?style=for-the-badge&logo=jquery&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-80%25-purple?style=for-the-badge&logo=php&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-85%25-purple?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-75%25-green?style=for-the-badge&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-80%25-lightblue?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-70%25-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![Git & GitHub](https://img.shields.io/badge/Git/GitHub-85%25-red?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-90%25-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
 ## 🎨 Creative Skills
 
-| Skill | Level |
-|-------|-------|
-| Graphic Design | ![80%](https://img.shields.io/badge/Graphic%20Design-80%25-pink?style=for-the-badge) |
-| Video Editing | ![75%](https://img.shields.io/badge/Video%20Editing-75%25-orange?style=for-the-badge) |
-| Photoshop | ![85%](https://img.shields.io/badge/Photoshop-85%25-blue?style=for-the-badge) |
-| Illustrator | ![80%](https://img.shields.io/badge/Illustrator-80%25-orange?style=for-the-badge) |
-| Figma | ![70%](https://img.shields.io/badge/Figma-70%25-red?style=for-the-badge) |
-| Canva | ![75%](https://img.shields.io/badge/Canva-75%25-lightblue?style=for-the-badge) |
+![Graphic Design](https://img.shields.io/badge/Graphic%20Design-80%25-pink?style=for-the-badge)  
+![Video Editing](https://img.shields.io/badge/Video%20Editing-75%25-orange?style=for-the-badge)  
+![Photoshop](https://img.shields.io/badge/Photoshop-85%25-blue?style=for-the-badge)  
+![Illustrator](https://img.shields.io/badge/Illustrator-80%25-orange?style=for-the-badge)  
+![Figma](https://img.shields.io/badge/Figma-70%25-red?style=for-the-badge)  
+![Canva](https://img.shields.io/badge/Canva-75%25-lightblue?style=for-the-badge)  
 
 ---
 
-## 🌟 Frontend & Backend
+## 💻 Frontend & Backend
 
-![Frontend](https://img.shields.io/badge/Frontend-Expert-green?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-Intermediate-blue?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-Expert-green?style=for-the-badge&logo=react)  
+![Backend](https://img.shields.io/badge/Backend-Intermediate-blue?style=for-the-badge&logo=node.js)  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yllimorina201o&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yllimorina201o&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yllimorina201o&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yllimorina201o&layout=compact&theme=dark&hide_border=true)  
 
 ---
 
