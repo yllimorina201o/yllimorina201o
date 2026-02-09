@@ -108,14 +108,6 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ---
 
-## 🌌 GitHub Stats
-
-![Ylli's GitHub Stats](https://github-readme-stats.vercel.app/api?yllimorina201o=yllimorina201o&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?yllimorina201o=yllimorina201o&layout=compact&theme=radical)
-
-
----
-
 ## 🚀 Current Status
 
 ```text
