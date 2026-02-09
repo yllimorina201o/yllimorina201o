@@ -54,6 +54,15 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ---
 
+## 🏀 Sports I Play
+
+![Football](https://img.shields.io/badge/Football-Playing-green?style=for-the-badge&logo=football&logoColor=white)
+![Basketball](https://img.shields.io/badge/Basketball-Playing-orange?style=for-the-badge&logo=basketball&logoColor=white)
+![Tennis](https://img.shields.io/badge/Tennis-Playing-blue?style=for-the-badge&logo=tennis&logoColor=white)
+![Swimming](https://img.shields.io/badge/Swimming-Playing-lightblue?style=for-the-badge&logo=swimming&logoColor=white)
+
+---
+
 ## 🎵 Music / Spotify Playlist
 
 [![Spotify](https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/YOUR_SPOTIFY_PLAYLIST_LINK)  
@@ -80,20 +89,10 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ---
 
-## 📊 GitHub Stats 
+## 🚀 Current Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yllimorina201o&show_icons=true&theme=dark&hide_border=false&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yllimorina201o&layout=compact)
-
----
-
-## ⚡ Fun Widgets
-<br>
-
--  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yllimorina201o&theme=dark&hide_border=false)
-- 🌍 **Visitors:** ![Visitor Count](https://profile-counter.glitch.me/yllimorina201o/count.svg)
-- 📈 **Contribution Graph:** ![Contributions](https://ghchart.rshah.org/yllimorina201o)
-
----
-
-> "Code, create, repeat. Life’s too short for boring projects."
+```text
+💻 Coding: Full-stack magic in progress
+🎨 Designing: Pixels obeying my will
+🎮 Gaming: Respawning in Fortnite
+☕ Coffee: 83% full
