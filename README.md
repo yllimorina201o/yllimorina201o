@@ -78,5 +78,5 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ## 📊 GitHub Stats
 
-![Ylli Morina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yllimorina201o&show_icons=true&theme=dark&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yllimorina201o&show_icons=true&theme=dark&hide_border=false&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yllimorina201o&layout=compact&theme=dark&hide_border=false)
