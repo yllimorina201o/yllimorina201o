@@ -68,10 +68,17 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ![Football](https://img.shields.io/badge/Football-Playing-green?style=for-the-badge&logo=football&logoColor=white)
 ![Basketball](https://img.shields.io/badge/Basketball-Playing-orange?style=for-the-badge&logo=basketball&logoColor=white)
-![Tennis](https://img.shields.io/badge/Tennis-Playing-blue?style=for-the-badge&logo=tennis&logoColor=white)
 ![Swimming](https://img.shields.io/badge/Swimming-Playing-lightblue?style=for-the-badge&logo=swimming&logoColor=white)
 
 💡 Tip: Staying active keeps both mind and code sharp.  
+
+---
+
+## ⚽🏀 Favorite Teams
+
+![FC Barcelona](https://img.shields.io/badge/FC%20Barcelona-00529F?style=for-the-badge&logo=fc-barcelona&logoColor=FF4B00)  
+![Los Angeles Lakers](https://img.shields.io/badge/Los%20Angeles%20Lakers-552583?style=for-the-badge&logo=los-angeles-lakers&logoColor=FDB927)  
+![Bora Kosovo](https://img.shields.io/badge/Bora%20Kosova-005BBB?style=for-the-badge&logo=kickstarter&logoColor=white)
 
 ---
 
