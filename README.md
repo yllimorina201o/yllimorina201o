@@ -3,6 +3,8 @@
 Welcome to my GitHub profile! I’m a **full-stack developer** and **creative designer**.  
 I combine coding, design, video editing, and gaming to create projects that are **functional, beautiful, and professional**.  
 
+💡 Fun fact: I code faster than my internet connection sometimes… almost.
+
 ---
 
 ## 🛠 Development Skills 
@@ -18,7 +20,6 @@ I combine coding, design, video editing, and gaming to create projects that are 
 ![Next.js](https://img.shields.io/badge/Next.js-50%25-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git & GitHub](https://img.shields.io/badge/Git/GitHub-100%25-red?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-100%25-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 
 ---
 
@@ -55,7 +56,8 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ## 🎵 Music / Spotify Playlist
 
-[![Spotify](https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/YOUR_SPOTIFY_PLAYLIST_LINK)
+[![Spotify](https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/YOUR_SPOTIFY_PLAYLIST_LINK)  
+💬 Currently vibing to: *Whatever keeps my brain coding faster than caffeine.*
 
 ---
 
@@ -63,7 +65,8 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_PROFILE)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_PROFILE)  
-[![Discord](https://img.shields.io/badge/Discord-Chat-indigo?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Discord](https://img.shields.io/badge/Discord-Chat-indigo?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
 
 ---
 
@@ -83,3 +86,13 @@ I combine coding, design, video editing, and gaming to create projects that are 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yllimorina201o&layout=compact)
 
 ---
+
+## ⚡ Fun Widgets
+
+- 🚀 **Current streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yllimorina201o&theme=dark&hide_border=false)
+- 🌍 **Visitors:** ![Visitor Count](https://profile-counter.glitch.me/yllimorina201o/count.svg)
+- 📈 **Contribution Graph:** ![Contributions](https://ghchart.rshah.org/yllimorina201o)
+
+---
+
+> "Code, create, repeat. Life’s too short for boring projects."
