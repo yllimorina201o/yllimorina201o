@@ -5,7 +5,7 @@ I combine coding, design, and video editing to create projects that are function
 
 ---
 
-## 🛠 Development Skills (Full-Width)
+## 🛠 Development Skills 
 
 ![HTML5 90%](https://img.shields.io/badge/HTML5-90%25-blue?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 85%](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +21,7 @@ I combine coding, design, and video editing to create projects that are function
 
 ---
 
-## 🎨 Creative Skills (Full-Width)
+## 🎨 Creative Skills
 
 ![Graphic Design 80%](https://img.shields.io/badge/Graphic%20Design-80%25-pink?style=for-the-badge)
 ![Video Editing 75%](https://img.shields.io/badge/Video%20Editing-75%25-orange?style=for-the-badge)
