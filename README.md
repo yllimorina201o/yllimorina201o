@@ -5,6 +5,9 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ---
 
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 🛠 Development Skills (Full-Width)
 
 ![HTML5 100%](https://img.shields.io/badge/HTML5-100%25-blue?style=for-the-badge&logo=html5&logoColor=white)
