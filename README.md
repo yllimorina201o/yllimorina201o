@@ -7,28 +7,28 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ## 🛠 Development Skills (Full-Width)
 
-![HTML5 100%](https://img.shields.io/badge/HTML5-90%25-blue?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 100%](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript 100%](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery 85%](https://img.shields.io/badge/jQuery-75%25-blue?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5 100%](https://img.shields.io/badge/HTML5-100%25-blue?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 100%](https://img.shields.io/badge/CSS3-100%25-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript 100%](https://img.shields.io/badge/JavaScript-100%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery 85%](https://img.shields.io/badge/jQuery-85%25-blue?style=for-the-badge&logo=jquery&logoColor=white)
 ![PHP 80%](https://img.shields.io/badge/PHP-80%25-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap 85%](https://img.shields.io/badge/Bootstrap-85%25-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js 50%](https://img.shields.io/badge/Node.js-75%25-green?style=for-the-badge&logo=node.js&logoColor=white)
-![React 40%](https://img.shields.io/badge/React-80%25-lightblue?style=for-the-badge&logo=react&logoColor=black)
-![Next.js 50%](https://img.shields.io/badge/Next.js-70%25-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Git & GitHub 100%](https://img.shields.io/badge/Git/GitHub-85%25-red?style=for-the-badge&logo=git&logoColor=white)
-![VS Code 100%](https://img.shields.io/badge/VS%20Code-90%25-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js 50%](https://img.shields.io/badge/Node.js-50%25-green?style=for-the-badge&logo=node.js&logoColor=white)
+![React 40%](https://img.shields.io/badge/React-40%25-lightblue?style=for-the-badge&logo=react&logoColor=black)
+![Next.js 50%](https://img.shields.io/badge/Next.js-50%25-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Git & GitHub 100%](https://img.shields.io/badge/Git/GitHub-100%25-red?style=for-the-badge&logo=git&logoColor=white)
+![VS Code 100%](https://img.shields.io/badge/VS%20Code-100%25-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🎨 Creative Skills (Full-Width)
 
-![Graphic Design 95%](https://img.shields.io/badge/Graphic%20Design-80%25-pink?style=for-the-badge)
-![Video Editing 8-%](https://img.shields.io/badge/Video%20Editing-75%25-orange?style=for-the-badge)
+![Graphic Design 95%](https://img.shields.io/badge/Graphic%20Design-95%25-pink?style=for-the-badge)
+![Video Editing 80%](https://img.shields.io/badge/Video%20Editing-80%25-orange?style=for-the-badge)
 ![Photoshop 85%](https://img.shields.io/badge/Photoshop-85%25-blue?style=for-the-badge)
 ![Illustrator 80%](https://img.shields.io/badge/Illustrator-80%25-orange?style=for-the-badge)
 ![Figma 70%](https://img.shields.io/badge/Figma-70%25-red?style=for-the-badge)
-![Canva 100%](https://img.shields.io/badge/Canva-75%25-lightblue?style=for-the-badge)
+![Canva 100%](https://img.shields.io/badge/Canva-100%25-lightblue?style=for-the-badge)
 
 ---
 
@@ -70,8 +70,8 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 [![Phone](https://img.shields.io/badge/Phone-%2B38349456469-brightgreen?style=for-the-badge&logo=phone&logoColor=white)](tel:+38349456469)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B38349456469-success?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/38349456469)  
-[![Email 1](https://img.shields.io/badge/Email-firstemail@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firstemail@example.com)  
-[![Email 2](https://img.shields.io/badge/Email-secondemail@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:secondemail@example.com)  
+[![Email 1](https://img.shields.io/badge/yllimorina1982@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yllimorina1982@gmail.com)  
+[![Email 2](https://img.shields.io/badge/yllimorina2010@icloud.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yllimorina2010@icloud.com)  
 [![Country](https://img.shields.io/badge/Country-Kosovo-blue?style=for-the-badge&logo=countryflags&logoColor=white)](https://www.google.com/maps/place/Kosovo)
 ---
 
