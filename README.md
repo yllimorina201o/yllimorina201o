@@ -5,7 +5,47 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ---
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ylli Morina Portfolio</title>
+<style>
+  body, html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #111; /* dark background */
+  }
+  #eagle {
+    position: absolute;
+    width: 150px;
+    top: 50%;
+    left: -150px;
+    transform: translateY(-50%);
+    transition: 0.1s linear;
+  }
+</style>
+</head>
+<body>
+
+<img id="eagle" src="https://i.imgur.com/5a9g2fC.png" alt="Flying Eagle">
+
+<script>
+  const eagle = document.getElementById('eagle');
+  let x = -150;
+  function animate() {
+    x += 5; // speed of eagle
+    if(x > window.innerWidth) x = -150; // loop
+    eagle.style.left = x + 'px';
+    requestAnimationFrame(animate);
+  }
+  animate();
+</script>
+
+</body>
+</html>
 
 
 ## 🛠 Development Skills (Full-Width)
