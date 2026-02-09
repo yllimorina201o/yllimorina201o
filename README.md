@@ -69,25 +69,6 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ---
 
-## 🎨 Fun & Interactive Widgets
-
-### 💬 Quote of the Day
-![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=github)
-
-### 🌈 Random Color Every Visit
-![Random Color](https://singlecolorimage.com/get/ff69b4/400x100)
-
-### 🕹️ Mini Game Widget
-[![Play Snake](https://img.shields.io/badge/Play-Snake-green?style=for-the-badge)](https://playsnake.org/)
-
-### 🐾 Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
-
-### 🎆 Fireworks Animation
-![Fireworks](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
----
-
 ## 🎵 Music / Spotify Playlist
 
 [![Spotify](https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/6sgzt29Ely5Z7eVQ6xbYZE?si=SSdg9mmJToWXNvVfqpZ5jA)  
