@@ -5,7 +5,7 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ---
 
-## 🛠 Development Skills (Animated)
+## 🛠 Development Skills 
 
 ![HTML5](https://img.shields.io/badge/HTML5-100%25-blue?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-100%25-blue?style=for-the-badge&logo=css3&logoColor=white)
