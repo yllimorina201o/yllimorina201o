@@ -110,21 +110,9 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ## 🌌 GitHub Stats
 
-![Ylli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YlliMorina&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YlliMorina&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YlliMorina&theme=radical)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YlliMorina.YlliMorina)
+![Ylli's GitHub Stats](https://github-readme-stats.vercel.app/api?yllimorina201o=yllimorina201o&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?yllimorina201o=yllimorina201o&layout=compact&theme=radical)
 
----
-
-## 🌟 Daily Dose of Fun
-
-> "Coding is like magic… except the spells sometimes explode."  
-> "Pixels are like Lego bricks for your brain."  
-> "Coffee is my syntax sugar."  
-
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
-![Gaming GIF](https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif)
 
 ---
 
