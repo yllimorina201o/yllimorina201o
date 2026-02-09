@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Ylli Morina
 
-Welcome to my GitHub profile! I’m a full-stack developer and creative designer.  
-I combine coding, design, and video editing to create projects that are functional, beautiful, and professional.  
+Welcome to my GitHub profile! I’m a **full-stack developer** and **creative designer**.  
+I combine coding, design, video editing, and gaming to create projects that are **functional, beautiful, and professional**.  
 
 ---
 
-## 🛠 Development Skills 
+## 🛠 Development Skills (Full-Width)
 
 ![HTML5 90%](https://img.shields.io/badge/HTML5-90%25-blue?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 85%](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +21,7 @@ I combine coding, design, and video editing to create projects that are function
 
 ---
 
-## 🎨 Creative Skills
+## 🎨 Creative Skills (Full-Width)
 
 ![Graphic Design 80%](https://img.shields.io/badge/Graphic%20Design-80%25-pink?style=for-the-badge)
 ![Video Editing 75%](https://img.shields.io/badge/Video%20Editing-75%25-orange?style=for-the-badge)
@@ -39,15 +39,44 @@ I combine coding, design, and video editing to create projects that are function
 
 ---
 
-## 📊 GitHub Stats (Full Width)
+## 🎮 Games I Play (Badges)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yllimorina201o&show_icons=true&theme=dark&hide_border=false&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yllimorina201o&layout=compact&theme=dark&hide_border=false)
+![CS2](https://img.shields.io/badge/CS2-Playing-blue?style=for-the-badge&logo=counter-strike&logoColor=white)
+![Fortnite](https://img.shields.io/badge/Fortnite-Playing-purple?style=for-the-badge&logo=fortnite&logoColor=white)
+![Fall Guys](https://img.shields.io/badge/Fall%20Guys-Playing-pink?style=for-the-badge)
+![Forza Horizon](https://img.shields.io/badge/Forza%20Horizon-Playing-orange?style=for-the-badge)
+![Minecraft](https://img.shields.io/badge/Minecraft-Playing-green?style=for-the-badge&logo=minecraft&logoColor=white)
+![FIFA](https://img.shields.io/badge/FIFA-Playing-blue?style=for-the-badge)
+![PUBG Mobile](https://img.shields.io/badge/PUBG%20Mobile-Playing-yellow?style=for-the-badge)
+![Call of Duty Warzone](https://img.shields.io/badge/Call%20of%20Duty%20Warzone-Playing-red?style=for-the-badge)
 
 ---
 
-## 🔗 Connect with me
+## 🎵 Music / Spotify Playlist
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://siqadelivery.com)  
-[![YouTube](https://img.shields.io/badge/YouTube-Watch-red?style=for-the-badge)](https://youtube.com/@yourchannel)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/yllimorina201o)
+[![Spotify](https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/YOUR_SPOTIFY_PLAYLIST_LINK)
+
+---
+
+## 🌐 Social Media
+
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_PROFILE)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_PROFILE)  
+[![Discord](https://img.shields.io/badge/Discord-Chat-indigo?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+
+---
+
+## 📞 Contact Info
+
+[![Phone](https://img.shields.io/badge/Phone-%2BCOUNTRYCODE--PHONENUMBER-brightgreen?style=for-the-badge&logo=phone&logoColor=white)](tel:+COUNTRYCODEPHONENUMBER)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2BCOUNTRYCODE--PHONENUMBER-success?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/COUNTRYCODEPHONENUMBER)  
+[![Email 1](https://img.shields.io/badge/Email-firstemail@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firstemail@example.com)  
+[![Email 2](https://img.shields.io/badge/Email-secondemail@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:secondemail@example.com)  
+[![Country](https://img.shields.io/badge/Country-Kosovo-blue?style=for-the-badge&logo=countryflags&logoColor=white)](https://www.google.com/maps/place/Kosovo)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yllimorina201o&show_icons=true&theme=dark&hide_border=false&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yllimorina201o&layout=compact&theme=dark&hide_border=false)
