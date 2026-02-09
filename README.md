@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a **full-stack developer** and **creative de
 I combine coding, design, video editing, and gaming to create projects that are **functional, beautiful, and professional**.  
 
 ---
-![Flying Eagle](https://media.giphy.com/media/l3vR0tq2WJtB6N0fe/giphy.gif)
+![Flying Eagle](https://yourimagehost.com/eagle_falling.gif)
 
 
 ## 🛠 Development Skills (Full-Width)
