@@ -14,18 +14,12 @@ I combine coding, design, video editing, and gaming to create projects that are 
 ![HTML5](https://img.shields.io/badge/HTML5-100%25-blue?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-100%25-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-85%25-blue?style=for-the-badge&logo=jquery&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-80%25-purple?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-85%25-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-50%25-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-40%25-lightblue?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-50%25-black?style=for-the-badge&logo=next.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-80%25-purple?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-85%25-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git & GitHub](https://img.shields.io/badge/Git/GitHub-100%25-red?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-100%25-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-💡 Pro tip: I organize my code like my playlists—efficient, aesthetic, and slightly addictive.  
-
----
 
 ---
 
@@ -39,15 +33,6 @@ I combine coding, design, video editing, and gaming to create projects that are 
 ![Canva](https://img.shields.io/badge/Canva-100%25-lightblue?style=for-the-badge)
 
 ✨ Fun fact: Design is my playground, and pixels obey my will.  
-
----
-
-## 💻 Frontend & Backend 
-
-![Frontend](https://img.shields.io/badge/Frontend-Expert-green?style=for-the-badge&logo=react)
-![Backend](https://img.shields.io/badge/Backend-Intermediate-blue?style=for-the-badge&logo=node.js)
-
-💡 Balance tip: I make both the user interface and server logic shine.  
 
 ---
 
@@ -81,6 +66,25 @@ I combine coding, design, video editing, and gaming to create projects that are 
 ![FC Barcelona](https://img.shields.io/badge/FC%20Barcelona-00529F?style=for-the-badge&logo=fc-barcelona&logoColor=FF4B00)  
 ![Los Angeles Lakers](https://img.shields.io/badge/Los%20Angeles%20Lakers-552583?style=for-the-badge&logo=los-angeles-lakers&logoColor=FDB927)  
 ![Bora Kosovo](https://img.shields.io/badge/Bora%20Kosova-005BBB?style=for-the-badge&logo=kickstarter&logoColor=white)
+
+---
+
+## 🎨 Fun & Interactive Widgets
+
+### 💬 Quote of the Day
+![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=github)
+
+### 🌈 Random Color Every Visit
+![Random Color](https://singlecolorimage.com/get/ff69b4/400x100)
+
+### 🕹️ Mini Game Widget
+[![Play Snake](https://img.shields.io/badge/Play-Snake-green?style=for-the-badge)](https://playsnake.org/)
+
+### 🐾 Visitor Counter
+![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+
+### 🎆 Fireworks Animation
+![Fireworks](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
