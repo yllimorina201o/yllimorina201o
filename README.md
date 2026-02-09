@@ -11,8 +11,8 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ## 🛠 Development Skills 
 
-![HTML5](https://img.shields.io/badge/HTML5-100%25-blue?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-100%25-blue?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-100%25-blue?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-100%25-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-50%25-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-40%25-lightblue?style=for-the-badge&logo=react&logoColor=black)
