@@ -1,9 +1,11 @@
 # 👋 Hi, I’m Ylli Morina
 
 Welcome to my GitHub profile! I’m a **full-stack developer** and **creative designer**.  
-I combine coding, design, video editing, and gaming to create projects that are **functional, beautiful, and professional**.  
+I combine coding, design, video editing, and gaming to create projects that are **functional, beautiful, professional, and a little fun too**.  
 
-💡 Fun fact: I code faster than my internet connection sometimes… almost.
+💡 Fun fact: I code faster than my internet connection sometimes… almost.  
+🎨 Cool twist: I turn pixels into experiences, not just pretty screens.  
+🚀 Pro tip: Every project I touch gets a sprinkle of magic and professionalism.  
 
 ---
 
@@ -21,6 +23,8 @@ I combine coding, design, video editing, and gaming to create projects that are 
 ![Git & GitHub](https://img.shields.io/badge/Git/GitHub-100%25-red?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-100%25-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+💡 Pro tip: I organize my code like my playlists—efficient, aesthetic, and slightly addictive.  
+
 ---
 
 ## 🎨 Creative Skills 
@@ -32,12 +36,16 @@ I combine coding, design, video editing, and gaming to create projects that are 
 ![Figma](https://img.shields.io/badge/Figma-70%25-red?style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-100%25-lightblue?style=for-the-badge)
 
+✨ Fun fact: Design is my playground, and pixels obey my will.  
+
 ---
 
 ## 💻 Frontend & Backend 
 
 ![Frontend](https://img.shields.io/badge/Frontend-Expert-green?style=for-the-badge&logo=react)
 ![Backend](https://img.shields.io/badge/Backend-Intermediate-blue?style=for-the-badge&logo=node.js)
+
+💡 Balance tip: I make both the user interface and server logic shine.  
 
 ---
 
@@ -52,6 +60,8 @@ I combine coding, design, video editing, and gaming to create projects that are 
 ![PUBG Mobile](https://img.shields.io/badge/PUBG%20Mobile-Playing-yellow?style=for-the-badge)
 ![Call of Duty Warzone](https://img.shields.io/badge/Call%20of%20Duty%20Warzone-Playing-red?style=for-the-badge)
 
+🎯 Fun fact: Gaming fuels my creativity and sharpens my coding reflexes.  
+
 ---
 
 ## 🏀 Sports I Play
@@ -61,12 +71,14 @@ I combine coding, design, video editing, and gaming to create projects that are 
 ![Tennis](https://img.shields.io/badge/Tennis-Playing-blue?style=for-the-badge&logo=tennis&logoColor=white)
 ![Swimming](https://img.shields.io/badge/Swimming-Playing-lightblue?style=for-the-badge&logo=swimming&logoColor=white)
 
+💡 Tip: Staying active keeps both mind and code sharp.  
+
 ---
 
 ## 🎵 Music / Spotify Playlist
 
 [![Spotify](https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/YOUR_SPOTIFY_PLAYLIST_LINK)  
-💬 Currently vibing to: *Whatever keeps my brain coding faster than caffeine.*
+💬 Currently vibing to: *Whatever keeps my brain coding faster than caffeine.*  
 
 ---
 
@@ -75,7 +87,7 @@ I combine coding, design, video editing, and gaming to create projects that are 
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_PROFILE)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_PROFILE)  
 [![Discord](https://img.shields.io/badge/Discord-Chat-indigo?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)  
 
 ---
 
@@ -85,7 +97,7 @@ I combine coding, design, video editing, and gaming to create projects that are 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B38349456469-success?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/38349456469)  
 [![Email 1](https://img.shields.io/badge/yllimorina1982@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yllimorina1982@gmail.com)  
 [![Email 2](https://img.shields.io/badge/yllimorina2010@icloud.com-blue?style=for-the-badge&logo=apple&logoColor=white)](mailto:yllimorina2010@icloud.com)  
-[![Country](https://img.shields.io/badge/Country-Kosovo-blue?style=for-the-badge&logo=countryflags&logoColor=white)](https://www.google.com/maps/place/Kosovo)
+[![Country](https://img.shields.io/badge/Country-Kosovo-blue?style=for-the-badge&logo=countryflags&logoColor=white)](https://www.google.com/maps/place/Kosovo)  
 
 ---
 
@@ -96,3 +108,4 @@ I combine coding, design, video editing, and gaming to create projects that are 
 🎨 Designing: Pixels obeying my will
 🎮 Gaming: Respawning in Fortnite
 ☕ Coffee: 83% full
+✨ Fun: Always active
