@@ -27,23 +27,6 @@ I combine coding, design, video editing, and gaming to create projects that are 
 
 ---
 
-## 🌟 GitHub Stats & Fun Widgets
-
-### GitHub Stats
-![Ylli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-### Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
-### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
-
-### Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&area=true)
-
 ---
 
 ## 🎨 Creative Skills 
