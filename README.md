@@ -72,6 +72,7 @@ I combine coding, design, video editing, and gaming to create projects that are 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B38349456469-success?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/38349456469)  
 [![Email 1](https://img.shields.io/badge/yllimorina1982@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yllimorina1982@gmail.com)  
 [![Email 2](https://img.shields.io/badge/yllimorina2010@icloud.com-blue?style=for-the-badge&logo=apple&logoColor=white)](mailto:yllimorina2010@icloud.com)
+<br>
 [![Country](https://img.shields.io/badge/Country-Kosovo-blue?style=for-the-badge&logo=countryflags&logoColor=white)](https://www.google.com/maps/place/Kosovo)
 ---
 
