@@ -90,7 +90,7 @@ I combine coding, design, video editing, and gaming to create projects that are 
 ## ⚡ Fun Widgets
 <br>
 
-- 🚀 **Current streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yllimorina201o&theme=dark&hide_border=false)
+-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yllimorina201o&theme=dark&hide_border=false)
 - 🌍 **Visitors:** ![Visitor Count](https://profile-counter.glitch.me/yllimorina201o/count.svg)
 - 📈 **Contribution Graph:** ![Contributions](https://ghchart.rshah.org/yllimorina201o)
 
